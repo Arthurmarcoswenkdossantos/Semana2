@@ -1,0 +1,68 @@
+html, body {margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#imagem_fundo {
+    width: 100%;
+    background: url("img/5311.jpg");
+    height: 90%;
+    text-align:center;
+    background-size: contain;
+}
+#titulo {
+    color: honeydew;
+    padding-top: 17%;
+    font-size: 500%;
+}
+#subtitulo {
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#botao {
+    color:white;
+    border: 2px white solid;
+    padding: 10 10 10 10
+}
+ #icone {
+     width: 70px;
+     
+ }
+ #projeto{
+     background-color:rgb(251, 255, 245);
+     padding: 50 50 50 50;
+     
+ }
+
+ }
+ #cons {
+     font-size: 200%;
+ }
+ 
+ }
+ #icone {
+    float: left;
+ }
+ .coluna4{
+     float: left;
+     padding: 0 5%;
+     position: relative;
+     width: 15%;
+     text-align:center;
+     
+     
+     }
+.coluna{
+    float: left;
+     padding: 300 5%;
+     position: relative;
+     width: 40%;
+}
+h3 {text-align: center;
+    font-size: 200%;
+
+
+}
+
